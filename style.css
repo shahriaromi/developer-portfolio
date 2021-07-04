@@ -21,7 +21,7 @@ a {
 }
 .welcome {
   display: flex;
-  background-image: url(/images/top-banner.png);
+  background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
 .half-width {
@@ -34,13 +34,13 @@ a {
 }
 .dream-big {
   display: flex;
-  background-image: url(/images/dream-bg.png);
+  background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
 .experience2 {
   display: flex;
-  background: url(/images/exp-bg.png) no-repeat;
+  background: url(images/exp-bg.png) no-repeat;
   background-position-y: 100px;
 }
 .border {
